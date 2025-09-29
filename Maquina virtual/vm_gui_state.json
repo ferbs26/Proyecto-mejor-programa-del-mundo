@@ -1,0 +1,1 @@
+{"editor_text": "; Example: countdown from 5 to 1, printing each number\nPUSH 5\nloop:\nDUP\nPRINT\nPUSH 1\nSUB\nDUP\nJNZ loop\nPOP\nHALT\n\n", "bp_lines": [], "delay": 0, "batch": 1, "watches": []}
